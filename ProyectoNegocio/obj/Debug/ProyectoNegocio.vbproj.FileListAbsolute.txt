@@ -1,0 +1,155 @@
+D:\sushi\ProyectoNegocio\bin\Debug\ProyectoNegocio.dll
+D:\sushi\ProyectoNegocio\bin\Debug\ProyectoNegocio.pdb
+D:\sushi\ProyectoNegocio\bin\Debug\ProyectoNegocio.xml
+D:\sushi\ProyectoNegocio\obj\Debug\ProyectoNegocio.Resources.resources
+D:\sushi\ProyectoNegocio\obj\Debug\ProyectoNegocio.vbproj.GenerateResource.Cache
+D:\sushi\ProyectoNegocio\obj\Debug\ProyectoNegocio.dll
+D:\sushi\ProyectoNegocio\obj\Debug\ProyectoNegocio.xml
+D:\sushi\ProyectoNegocio\obj\Debug\ProyectoNegocio.pdb
+D:\sushi\ProyectoNegocio\bin\Debug\ProyectoService.dll
+D:\sushi\ProyectoNegocio\bin\Debug\ProyectoService.pdb
+D:\sushi\ProyectoNegocio\bin\Debug\ProyectoService.xml
+D:\sushi\ProyectoNegocio\obj\Debug\ProyectoNegocio.vbprojResolveAssemblyReference.cache
+C:\Users\Francisco\Desktop\Sistem_Duran\sushi\ProyectoNegocio\bin\Debug\ProyectoNegocio.dll
+C:\Users\Francisco\Desktop\Sistem_Duran\sushi\ProyectoNegocio\bin\Debug\ProyectoNegocio.pdb
+C:\Users\Francisco\Desktop\Sistem_Duran\sushi\ProyectoNegocio\bin\Debug\ProyectoNegocio.xml
+C:\Users\Francisco\Desktop\Sistem_Duran\sushi\ProyectoNegocio\bin\Debug\ProyectoService.dll
+C:\Users\Francisco\Desktop\Sistem_Duran\sushi\ProyectoNegocio\bin\Debug\ProyectoService.pdb
+C:\Users\Francisco\Desktop\Sistem_Duran\sushi\ProyectoNegocio\bin\Debug\ProyectoService.xml
+C:\Users\Francisco\Desktop\Sistem_Duran\sushi\ProyectoNegocio\obj\Debug\ProyectoNegocio.Resources.resources
+C:\Users\Francisco\Desktop\Sistem_Duran\sushi\ProyectoNegocio\obj\Debug\ProyectoNegocio.vbproj.GenerateResource.cache
+C:\Users\Francisco\Desktop\Sistem_Duran\sushi\ProyectoNegocio\obj\Debug\ProyectoNegocio.dll
+C:\Users\Francisco\Desktop\Sistem_Duran\sushi\ProyectoNegocio\obj\Debug\ProyectoNegocio.xml
+C:\Users\Francisco\Desktop\Sistem_Duran\sushi\ProyectoNegocio\obj\Debug\ProyectoNegocio.pdb
+C:\Users\Francisco\Desktop\Sistem_Duran\sushi\ProyectoNegocio\obj\Debug\ProyectoNegocio.vbprojResolveAssemblyReference.cache
+C:\Users\Francisco\Desktop\Sistem_Duran\sushi\delevery\ProyectoNegocio\bin\Debug\ProyectoNegocio.dll
+C:\Users\Francisco\Desktop\Sistem_Duran\sushi\delevery\ProyectoNegocio\bin\Debug\ProyectoNegocio.pdb
+C:\Users\Francisco\Desktop\Sistem_Duran\sushi\delevery\ProyectoNegocio\bin\Debug\ProyectoNegocio.xml
+C:\Users\Francisco\Desktop\Sistem_Duran\sushi\delevery\ProyectoNegocio\bin\Debug\ProyectoService.dll
+C:\Users\Francisco\Desktop\Sistem_Duran\sushi\delevery\ProyectoNegocio\bin\Debug\ProyectoService.pdb
+C:\Users\Francisco\Desktop\Sistem_Duran\sushi\delevery\ProyectoNegocio\bin\Debug\ProyectoService.xml
+C:\Users\Francisco\Desktop\Sistem_Duran\sushi\delevery\ProyectoNegocio\obj\Debug\ProyectoNegocio.vbprojResolveAssemblyReference.cache
+C:\Users\Francisco\Desktop\Sistem_Duran\sushi\delevery\ProyectoNegocio\obj\Debug\ProyectoNegocio.Resources.resources
+C:\Users\Francisco\Desktop\Sistem_Duran\sushi\delevery\ProyectoNegocio\obj\Debug\ProyectoNegocio.vbproj.GenerateResource.Cache
+C:\Users\Francisco\Desktop\Sistem_Duran\sushi\delevery\ProyectoNegocio\obj\Debug\ProyectoNegocio.dll
+C:\Users\Francisco\Desktop\Sistem_Duran\sushi\delevery\ProyectoNegocio\obj\Debug\ProyectoNegocio.xml
+C:\Users\Francisco\Desktop\Sistem_Duran\sushi\delevery\ProyectoNegocio\obj\Debug\ProyectoNegocio.pdb
+D:\Sistem_Duran\POS\POS_Touch\ProyectoNegocio\bin\Debug\ProyectoNegocio.dll
+D:\Sistem_Duran\POS\POS_Touch\ProyectoNegocio\bin\Debug\ProyectoNegocio.pdb
+D:\Sistem_Duran\POS\POS_Touch\ProyectoNegocio\bin\Debug\ProyectoNegocio.xml
+D:\Sistem_Duran\POS\POS_Touch\ProyectoNegocio\bin\Debug\ProyectoService.dll
+D:\Sistem_Duran\POS\POS_Touch\ProyectoNegocio\bin\Debug\ProyectoService.pdb
+D:\Sistem_Duran\POS\POS_Touch\ProyectoNegocio\bin\Debug\ProyectoService.xml
+D:\Sistem_Duran\POS\POS_Touch\ProyectoNegocio\obj\Debug\ProyectoNegocio.vbprojResolveAssemblyReference.cache
+D:\Sistem_Duran\POS\POS_Touch\ProyectoNegocio\obj\Debug\ProyectoNegocio.Resources.resources
+D:\Sistem_Duran\POS\POS_Touch\ProyectoNegocio\obj\Debug\ProyectoNegocio.vbproj.GenerateResource.Cache
+D:\Sistem_Duran\POS\POS_Touch\ProyectoNegocio\obj\Debug\ProyectoNegocio.dll
+D:\Sistem_Duran\POS\POS_Touch\ProyectoNegocio\obj\Debug\ProyectoNegocio.xml
+D:\Sistem_Duran\POS\POS_Touch\ProyectoNegocio\obj\Debug\ProyectoNegocio.pdb
+D:\Sistem_Duran\POS_Touch\POS_Touch\ProyectoNegocio\obj\Debug\ProyectoNegocio.vbprojResolveAssemblyReference.cache
+D:\Sistem_Duran\POS_Touch\POS_Touch\ProyectoNegocio\obj\Debug\ProyectoNegocio.Resources.resources
+D:\Sistem_Duran\POS_Touch\POS_Touch\ProyectoNegocio\obj\Debug\ProyectoNegocio.vbproj.GenerateResource.Cache
+D:\Sistem_Duran\POS_Touch\POS_Touch\ProyectoNegocio\obj\Debug\ProyectoNegocio.dll
+D:\Sistem_Duran\POS_Touch\POS_Touch\ProyectoNegocio\obj\Debug\ProyectoNegocio.xml
+D:\Sistem_Duran\POS_Touch\POS_Touch\ProyectoNegocio\obj\Debug\ProyectoNegocio.pdb
+D:\Sistem_Duran\POS_Touch\POS_Touch\ProyectoNegocio\bin\Debug\ProyectoNegocio.dll
+D:\Sistem_Duran\POS_Touch\POS_Touch\ProyectoNegocio\bin\Debug\ProyectoNegocio.pdb
+D:\Sistem_Duran\POS_Touch\POS_Touch\ProyectoNegocio\bin\Debug\ProyectoNegocio.xml
+D:\Sistem_Duran\POS_Touch\POS_Touch\ProyectoNegocio\bin\Debug\ProyectoService.dll
+D:\Sistem_Duran\POS_Touch\POS_Touch\ProyectoNegocio\bin\Debug\ProyectoService.pdb
+D:\Sistem_Duran\POS_Touch\POS_Touch\ProyectoNegocio\bin\Debug\ProyectoService.xml
+D:\Sistem_Duran\POS_Touch - copia (2)\POS_Touch\ProyectoNegocio\bin\Debug\ProyectoNegocio.dll
+D:\Sistem_Duran\POS_Touch - copia (2)\POS_Touch\ProyectoNegocio\bin\Debug\ProyectoNegocio.pdb
+D:\Sistem_Duran\POS_Touch - copia (2)\POS_Touch\ProyectoNegocio\bin\Debug\ProyectoNegocio.xml
+D:\Sistem_Duran\POS_Touch - copia (2)\POS_Touch\ProyectoNegocio\bin\Debug\ProyectoService.dll
+D:\Sistem_Duran\POS_Touch - copia (2)\POS_Touch\ProyectoNegocio\bin\Debug\ProyectoService.pdb
+D:\Sistem_Duran\POS_Touch - copia (2)\POS_Touch\ProyectoNegocio\bin\Debug\ProyectoService.xml
+D:\Sistem_Duran\POS_Touch - copia (2)\POS_Touch\ProyectoNegocio\obj\Debug\ProyectoNegocio.vbprojResolveAssemblyReference.cache
+D:\Sistem_Duran\POS_Touch - copia (2)\POS_Touch\ProyectoNegocio\obj\Debug\ProyectoNegocio.Resources.resources
+D:\Sistem_Duran\POS_Touch - copia (2)\POS_Touch\ProyectoNegocio\obj\Debug\ProyectoNegocio.vbproj.GenerateResource.Cache
+D:\Sistem_Duran\POS_Touch - copia (2)\POS_Touch\ProyectoNegocio\obj\Debug\ProyectoNegocio.dll
+D:\Sistem_Duran\POS_Touch - copia (2)\POS_Touch\ProyectoNegocio\obj\Debug\ProyectoNegocio.xml
+D:\Sistem_Duran\POS_Touch - copia (2)\POS_Touch\ProyectoNegocio\obj\Debug\ProyectoNegocio.pdb
+D:\Sistem_Duran\POS_Touch\ProyectoNegocio\bin\Debug\ProyectoNegocio.dll
+D:\Sistem_Duran\POS_Touch\ProyectoNegocio\bin\Debug\ProyectoNegocio.pdb
+D:\Sistem_Duran\POS_Touch\ProyectoNegocio\bin\Debug\ProyectoNegocio.xml
+D:\Sistem_Duran\POS_Touch\ProyectoNegocio\bin\Debug\ProyectoService.dll
+D:\Sistem_Duran\POS_Touch\ProyectoNegocio\bin\Debug\ProyectoService.pdb
+D:\Sistem_Duran\POS_Touch\ProyectoNegocio\bin\Debug\ProyectoService.xml
+D:\Sistem_Duran\POS_Touch\ProyectoNegocio\obj\Debug\ProyectoNegocio.vbprojResolveAssemblyReference.cache
+D:\Sistem_Duran\POS_Touch\ProyectoNegocio\obj\Debug\ProyectoNegocio.Resources.resources
+D:\Sistem_Duran\POS_Touch\ProyectoNegocio\obj\Debug\ProyectoNegocio.vbproj.GenerateResource.Cache
+D:\Sistem_Duran\POS_Touch\ProyectoNegocio\obj\Debug\ProyectoNegocio.dll
+D:\Sistem_Duran\POS_Touch\ProyectoNegocio\obj\Debug\ProyectoNegocio.xml
+D:\Sistem_Duran\POS_Touch\ProyectoNegocio\obj\Debug\ProyectoNegocio.pdb
+C:\Users\Francisco\Desktop\Sistem_Duran\sushi\Comida-Rapida\POS_Touch\ProyectoNegocio\bin\Debug\ProyectoNegocio.dll
+C:\Users\Francisco\Desktop\Sistem_Duran\sushi\Comida-Rapida\POS_Touch\ProyectoNegocio\bin\Debug\ProyectoNegocio.pdb
+C:\Users\Francisco\Desktop\Sistem_Duran\sushi\Comida-Rapida\POS_Touch\ProyectoNegocio\bin\Debug\ProyectoNegocio.xml
+C:\Users\Francisco\Desktop\Sistem_Duran\sushi\Comida-Rapida\POS_Touch\ProyectoNegocio\bin\Debug\ProyectoService.dll
+C:\Users\Francisco\Desktop\Sistem_Duran\sushi\Comida-Rapida\POS_Touch\ProyectoNegocio\bin\Debug\ProyectoService.pdb
+C:\Users\Francisco\Desktop\Sistem_Duran\sushi\Comida-Rapida\POS_Touch\ProyectoNegocio\bin\Debug\ProyectoService.xml
+C:\Users\Francisco\Desktop\Sistem_Duran\sushi\Comida-Rapida\POS_Touch\ProyectoNegocio\obj\Debug\ProyectoNegocio.vbprojResolveAssemblyReference.cache
+C:\Users\Francisco\Desktop\Sistem_Duran\sushi\Comida-Rapida\POS_Touch\ProyectoNegocio\obj\Debug\ProyectoNegocio.Resources.resources
+C:\Users\Francisco\Desktop\Sistem_Duran\sushi\Comida-Rapida\POS_Touch\ProyectoNegocio\obj\Debug\ProyectoNegocio.vbproj.GenerateResource.Cache
+C:\Users\Francisco\Desktop\Sistem_Duran\sushi\Comida-Rapida\POS_Touch\ProyectoNegocio\obj\Debug\ProyectoNegocio.dll
+C:\Users\Francisco\Desktop\Sistem_Duran\sushi\Comida-Rapida\POS_Touch\ProyectoNegocio\obj\Debug\ProyectoNegocio.xml
+C:\Users\Francisco\Desktop\Sistem_Duran\sushi\Comida-Rapida\POS_Touch\ProyectoNegocio\obj\Debug\ProyectoNegocio.pdb
+C:\Users\Francisco\Desktop\Sistem_Duran\sushi\Comida-Rapida\Nueva carpeta\POS_Touch\ProyectoNegocio\bin\Debug\ProyectoNegocio.dll
+C:\Users\Francisco\Desktop\Sistem_Duran\sushi\Comida-Rapida\Nueva carpeta\POS_Touch\ProyectoNegocio\bin\Debug\ProyectoNegocio.pdb
+C:\Users\Francisco\Desktop\Sistem_Duran\sushi\Comida-Rapida\Nueva carpeta\POS_Touch\ProyectoNegocio\bin\Debug\ProyectoNegocio.xml
+C:\Users\Francisco\Desktop\Sistem_Duran\sushi\Comida-Rapida\Nueva carpeta\POS_Touch\ProyectoNegocio\bin\Debug\ProyectoService.dll
+C:\Users\Francisco\Desktop\Sistem_Duran\sushi\Comida-Rapida\Nueva carpeta\POS_Touch\ProyectoNegocio\bin\Debug\ProyectoService.pdb
+C:\Users\Francisco\Desktop\Sistem_Duran\sushi\Comida-Rapida\Nueva carpeta\POS_Touch\ProyectoNegocio\bin\Debug\ProyectoService.xml
+C:\Users\Francisco\Desktop\Sistem_Duran\sushi\Comida-Rapida\Nueva carpeta\POS_Touch\ProyectoNegocio\obj\Debug\ProyectoNegocio.vbprojResolveAssemblyReference.cache
+C:\Users\Francisco\Desktop\Sistem_Duran\sushi\Comida-Rapida\Nueva carpeta\POS_Touch\ProyectoNegocio\obj\Debug\ProyectoNegocio.Resources.resources
+C:\Users\Francisco\Desktop\Sistem_Duran\sushi\Comida-Rapida\Nueva carpeta\POS_Touch\ProyectoNegocio\obj\Debug\ProyectoNegocio.vbproj.GenerateResource.Cache
+C:\Users\Francisco\Desktop\Sistem_Duran\sushi\Comida-Rapida\Nueva carpeta\POS_Touch\ProyectoNegocio\obj\Debug\ProyectoNegocio.dll
+C:\Users\Francisco\Desktop\Sistem_Duran\sushi\Comida-Rapida\Nueva carpeta\POS_Touch\ProyectoNegocio\obj\Debug\ProyectoNegocio.xml
+C:\Users\Francisco\Desktop\Sistem_Duran\sushi\Comida-Rapida\Nueva carpeta\POS_Touch\ProyectoNegocio\obj\Debug\ProyectoNegocio.pdb
+C:\Users\Francisco\Desktop\Sistem_Duran\sushi\Prueba\POS_Touch\ProyectoNegocio\bin\Debug\ProyectoNegocio.dll
+C:\Users\Francisco\Desktop\Sistem_Duran\sushi\Prueba\POS_Touch\ProyectoNegocio\bin\Debug\ProyectoNegocio.pdb
+C:\Users\Francisco\Desktop\Sistem_Duran\sushi\Prueba\POS_Touch\ProyectoNegocio\bin\Debug\ProyectoNegocio.xml
+C:\Users\Francisco\Desktop\Sistem_Duran\sushi\Prueba\POS_Touch\ProyectoNegocio\bin\Debug\ProyectoService.dll
+C:\Users\Francisco\Desktop\Sistem_Duran\sushi\Prueba\POS_Touch\ProyectoNegocio\bin\Debug\ProyectoService.pdb
+C:\Users\Francisco\Desktop\Sistem_Duran\sushi\Prueba\POS_Touch\ProyectoNegocio\bin\Debug\ProyectoService.xml
+C:\Users\Francisco\Desktop\Sistem_Duran\sushi\Prueba\POS_Touch\ProyectoNegocio\obj\Debug\ProyectoNegocio.vbprojResolveAssemblyReference.cache
+C:\Users\Francisco\Desktop\Sistem_Duran\sushi\Prueba\POS_Touch\ProyectoNegocio\obj\Debug\ProyectoNegocio.Resources.resources
+C:\Users\Francisco\Desktop\Sistem_Duran\sushi\Prueba\POS_Touch\ProyectoNegocio\obj\Debug\ProyectoNegocio.vbproj.GenerateResource.Cache
+C:\Users\Francisco\Desktop\Sistem_Duran\sushi\Prueba\POS_Touch\ProyectoNegocio\obj\Debug\ProyectoNegocio.dll
+C:\Users\Francisco\Desktop\Sistem_Duran\sushi\Prueba\POS_Touch\ProyectoNegocio\obj\Debug\ProyectoNegocio.xml
+C:\Users\Francisco\Desktop\Sistem_Duran\sushi\Prueba\POS_Touch\ProyectoNegocio\obj\Debug\ProyectoNegocio.pdb
+D:\Sistem_Duran\POS_Touch\ProyectoNegocio\bin\Debug\proyectoDTO.dll
+D:\Sistem_Duran\POS_Touch\ProyectoNegocio\bin\Debug\proyectoDTO.pdb
+D:\Sistem_Duran\POS_Touch\ProyectoNegocio\bin\Debug\proyectoDTO.xml
+C:\Users\Francisco\Desktop\Sistem_Duran\POS\Prueba\POS_Touch\ProyectoNegocio\bin\Debug\ProyectoNegocio.dll
+C:\Users\Francisco\Desktop\Sistem_Duran\POS\Prueba\POS_Touch\ProyectoNegocio\bin\Debug\ProyectoNegocio.pdb
+C:\Users\Francisco\Desktop\Sistem_Duran\POS\Prueba\POS_Touch\ProyectoNegocio\bin\Debug\ProyectoNegocio.xml
+C:\Users\Francisco\Desktop\Sistem_Duran\POS\Prueba\POS_Touch\ProyectoNegocio\bin\Debug\proyectoDTO.dll
+C:\Users\Francisco\Desktop\Sistem_Duran\POS\Prueba\POS_Touch\ProyectoNegocio\bin\Debug\ProyectoService.dll
+C:\Users\Francisco\Desktop\Sistem_Duran\POS\Prueba\POS_Touch\ProyectoNegocio\bin\Debug\proyectoDTO.pdb
+C:\Users\Francisco\Desktop\Sistem_Duran\POS\Prueba\POS_Touch\ProyectoNegocio\bin\Debug\proyectoDTO.xml
+C:\Users\Francisco\Desktop\Sistem_Duran\POS\Prueba\POS_Touch\ProyectoNegocio\bin\Debug\ProyectoService.pdb
+C:\Users\Francisco\Desktop\Sistem_Duran\POS\Prueba\POS_Touch\ProyectoNegocio\bin\Debug\ProyectoService.xml
+C:\Users\Francisco\Desktop\Sistem_Duran\POS\Prueba\POS_Touch\ProyectoNegocio\obj\Debug\ProyectoNegocio.vbprojResolveAssemblyReference.cache
+C:\Users\Francisco\Desktop\Sistem_Duran\POS\Prueba\POS_Touch\ProyectoNegocio\obj\Debug\ProyectoNegocio.Resources.resources
+C:\Users\Francisco\Desktop\Sistem_Duran\POS\Prueba\POS_Touch\ProyectoNegocio\obj\Debug\ProyectoNegocio.vbproj.GenerateResource.Cache
+C:\Users\Francisco\Desktop\Sistem_Duran\POS\Prueba\POS_Touch\ProyectoNegocio\obj\Debug\ProyectoNegocio.dll
+C:\Users\Francisco\Desktop\Sistem_Duran\POS\Prueba\POS_Touch\ProyectoNegocio\obj\Debug\ProyectoNegocio.xml
+C:\Users\Francisco\Desktop\Sistem_Duran\POS\Prueba\POS_Touch\ProyectoNegocio\obj\Debug\ProyectoNegocio.pdb
+C:\Users\Francisco\Desktop\Programacion\Sistem_Duran\POS\Prueba\POS_Touch\ProyectoNegocio\bin\Debug\ProyectoNegocio.dll
+C:\Users\Francisco\Desktop\Programacion\Sistem_Duran\POS\Prueba\POS_Touch\ProyectoNegocio\bin\Debug\ProyectoNegocio.pdb
+C:\Users\Francisco\Desktop\Programacion\Sistem_Duran\POS\Prueba\POS_Touch\ProyectoNegocio\bin\Debug\ProyectoNegocio.xml
+C:\Users\Francisco\Desktop\Programacion\Sistem_Duran\POS\Prueba\POS_Touch\ProyectoNegocio\bin\Debug\proyectoDTO.dll
+C:\Users\Francisco\Desktop\Programacion\Sistem_Duran\POS\Prueba\POS_Touch\ProyectoNegocio\bin\Debug\ProyectoService.dll
+C:\Users\Francisco\Desktop\Programacion\Sistem_Duran\POS\Prueba\POS_Touch\ProyectoNegocio\bin\Debug\proyectoDTO.pdb
+C:\Users\Francisco\Desktop\Programacion\Sistem_Duran\POS\Prueba\POS_Touch\ProyectoNegocio\bin\Debug\proyectoDTO.xml
+C:\Users\Francisco\Desktop\Programacion\Sistem_Duran\POS\Prueba\POS_Touch\ProyectoNegocio\bin\Debug\ProyectoService.pdb
+C:\Users\Francisco\Desktop\Programacion\Sistem_Duran\POS\Prueba\POS_Touch\ProyectoNegocio\bin\Debug\ProyectoService.xml
+C:\Users\Francisco\Desktop\Programacion\Sistem_Duran\POS\Prueba\POS_Touch\ProyectoNegocio\obj\Debug\ProyectoNegocio.Resources.resources
+C:\Users\Francisco\Desktop\Programacion\Sistem_Duran\POS\Prueba\POS_Touch\ProyectoNegocio\obj\Debug\ProyectoNegocio.vbproj.GenerateResource.Cache
+C:\Users\Francisco\Desktop\Programacion\Sistem_Duran\POS\Prueba\POS_Touch\ProyectoNegocio\obj\Debug\ProyectoNegocio.dll
+C:\Users\Francisco\Desktop\Programacion\Sistem_Duran\POS\Prueba\POS_Touch\ProyectoNegocio\obj\Debug\ProyectoNegocio.xml
+C:\Users\Francisco\Desktop\Programacion\Sistem_Duran\POS\Prueba\POS_Touch\ProyectoNegocio\obj\Debug\ProyectoNegocio.pdb
+C:\Users\Francisco\Desktop\Programacion\Sistem_Duran\POS\Prueba\POS_Touch\ProyectoNegocio\obj\Debug\ProyectoNegocio.vbprojAssemblyReference.cache
+C:\Users\Francisco\Desktop\Programacion\Sistem_Duran\POS\Prueba\POS_Touch\ProyectoNegocio\obj\Debug\ProyectoNegocio.vbproj.CoreCompileInputs.cache
+C:\Users\Francisco\Desktop\Programacion\Sistem_Duran\POS\Prueba\POS_Touch\ProyectoNegocio\obj\Debug\ProyectoNegocio.vbproj.CopyComplete

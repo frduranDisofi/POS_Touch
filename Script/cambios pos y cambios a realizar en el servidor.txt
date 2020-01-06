@@ -1,0 +1,8 @@
+========================================================================
+***Imprimir boleta verificar (LISTO)
+***Fecha de reporte de ventas(LISTO) "Actualizar sp grillaCierre"
+***Reporte producto agregar los filtros(LISTO) "Actualizar sp RPT_productosRevision"
+***Actualizar cerrar caja(LISTO)
+***Validar Glosa en cierre de caja(LISTO)
+***Respaldo no se debe sobreescribir(LISTO)
+***Agregar glosa en cierre de caja y fecha(LISTO)

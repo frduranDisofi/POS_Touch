@@ -1,0 +1,9 @@
+========================================================================
+-modificar fecha desde hasta en reporte --dd-mm-yyyy
+-La comanda va con el numero de ticket y sin pichilemu y otro texto de la cabecera, dejar el reporte mas
+arriba
+-Agregar un boton + y - en ventas
+-Cuando se guarda una familia y luego se actualiza para la impresora la imagen se borra
+-Pantalla de ventas dejar titulos de familias arriba de la foto
+========================================================================
+
