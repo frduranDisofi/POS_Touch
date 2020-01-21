@@ -189,7 +189,7 @@ Public Class Rpt_ticket
                 For Each item As DataRow In dt.Tables(0).Rows
                     If paso = 0 Then
                         If impresora1 = item("Impresora") Then
-                            data.RptTicketFamilia.Rows.Add(item(0), item(1), item(2), item(3), item(4), item(5), item(6))
+                            data.RptTicketFamilia.Rows.Add(item(0), item(1), item(2), item(3), item(4), item(5))
                         End If
                         paso = 1
 

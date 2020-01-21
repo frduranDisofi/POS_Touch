@@ -2,8 +2,8 @@
     Private myhelper2 As New dac.myhelper2
 
     Private Sub btn_aceptar_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btn_aceptar.Click
-        Dim fecha_inicio As String = Format(DateTimePicker1.Value, "yyyy-MM-dd").ToString
-        Dim fecha_fin As String = Format(DateTimePicker2.Value, "yyyy-MM-dd").ToString
+        Dim fecha_inicio As String = Format(DateTimePicker1.Value, "yyyy-dd-MM").ToString
+        Dim fecha_fin As String = Format(DateTimePicker2.Value, "yyyy-dd-MM").ToString
         Dim listado As New DataTable
 
         If CDate(fecha_inicio) <= CDate(fecha_fin) Then

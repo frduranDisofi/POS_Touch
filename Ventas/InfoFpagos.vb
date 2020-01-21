@@ -23,8 +23,8 @@
             tipo = 4
         End If
         frm.tipo = tipo
-        frm.FechaIni = Format(Me.uic_FechaIni.Value, "yyyy-MM-dd")
-        frm.FechaFin = Format(Me.uic_FechaFin.Value, "yyyy-MM-dd")
+        frm.FechaIni = Format(Me.uic_FechaIni.Value, "yyyy-dd-MM")
+        frm.FechaFin = Format(Me.uic_FechaFin.Value, "yyyy-dd-MM")
         frm.show()
     End Sub
 

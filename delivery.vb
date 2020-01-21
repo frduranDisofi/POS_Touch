@@ -244,7 +244,7 @@ Public Class delivery
 
     Private Sub CierreCajaToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles CierreCajaToolStripMenuItem.Click
         Dim frm As New Rpt_ReporteZ
-        frm.Fecha = Format(Now, "yyyy-MM-dd")
+        frm.Fecha = Format(Now, "yyyy-dd-MM")
         frm.IdUsuario = IdUsuario
         frm.ShowDialog()
     End Sub

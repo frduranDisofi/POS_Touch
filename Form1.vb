@@ -198,7 +198,7 @@ Public Class Form1
                 Catch ex As Exception
                 End Try
 
-                obcontrol.Controls(0).Text = NFamilia
+                'obcontrol.Controls(0).Text = NFamilia
                 obcontrol.Controls(0).Name = codigoFamilia
                 If dr("FotoNombre").ToString.ToUpper = "SINFOTO.JPG" Then
                     obcontrol.Controls(0).BackgroundImage = My.Resources.SinFoto
@@ -274,7 +274,7 @@ Public Class Form1
         Dim id_doc_cab As String = ""
         Dim Neg As New ProyectoNegocio.AdminCaja
 
-        dts.get_fecha = Format(Now, "yyyy-MM-dd")
+        dts.get_fecha = Format(Now, "yyyy-dd-MM")
         dts.get_forma_pago = tipoPago
         dts.get_total = Me.txt_Total.Text.Trim
         dts.get_efectivo = Me.txt_efectivo.Text.Trim

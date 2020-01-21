@@ -1504,8 +1504,6 @@ Partial Public Class dts_Caja
 
         Private columnimpresora As Global.System.Data.DataColumn
 
-        Private columnFamilia As Global.System.Data.DataColumn
-
         <Global.System.Diagnostics.DebuggerNonUserCodeAttribute(), _
          Global.System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")> _
         Public Sub New()
@@ -1590,14 +1588,6 @@ Partial Public Class dts_Caja
         End Property
 
         <Global.System.Diagnostics.DebuggerNonUserCodeAttribute(), _
-         Global.System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")> _
-        Public ReadOnly Property FamiliaColumn() As Global.System.Data.DataColumn
-            Get
-                Return Me.columnFamilia
-            End Get
-        End Property
-
-        <Global.System.Diagnostics.DebuggerNonUserCodeAttribute(), _
          Global.System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0"), _
          Global.System.ComponentModel.Browsable(False)> _
         Public ReadOnly Property Count() As Integer
@@ -1634,9 +1624,9 @@ Partial Public Class dts_Caja
 
         <Global.System.Diagnostics.DebuggerNonUserCodeAttribute(), _
          Global.System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")> _
-        Public Overloads Function AddRptTicketFamiliaRow(ByVal id_doc_cab As Long, ByVal descripcion As String, ByVal precio As Long, ByVal total As Long, ByVal cantidad As Long, ByVal impresora As String, ByVal Familia As String) As RptTicketFamiliaRow
+        Public Overloads Function AddRptTicketFamiliaRow(ByVal id_doc_cab As Long, ByVal descripcion As String, ByVal precio As Long, ByVal total As Long, ByVal cantidad As Long, ByVal impresora As String) As RptTicketFamiliaRow
             Dim rowRptTicketFamiliaRow As RptTicketFamiliaRow = CType(Me.NewRow, RptTicketFamiliaRow)
-            Dim columnValuesArray() As Object = New Object() {id_doc_cab, descripcion, precio, total, cantidad, impresora, Familia}
+            Dim columnValuesArray() As Object = New Object() {id_doc_cab, descripcion, precio, total, cantidad, impresora}
             rowRptTicketFamiliaRow.ItemArray = columnValuesArray
             Me.Rows.Add(rowRptTicketFamiliaRow)
             Return rowRptTicketFamiliaRow
@@ -1665,7 +1655,6 @@ Partial Public Class dts_Caja
             Me.columntotal = MyBase.Columns("total")
             Me.columncantidad = MyBase.Columns("cantidad")
             Me.columnimpresora = MyBase.Columns("impresora")
-            Me.columnFamilia = MyBase.Columns("Familia")
         End Sub
 
         <Global.System.Diagnostics.DebuggerNonUserCodeAttribute(), _
@@ -1683,8 +1672,6 @@ Partial Public Class dts_Caja
             MyBase.Columns.Add(Me.columncantidad)
             Me.columnimpresora = New Global.System.Data.DataColumn("impresora", GetType(String), Nothing, Global.System.Data.MappingType.Element)
             MyBase.Columns.Add(Me.columnimpresora)
-            Me.columnFamilia = New Global.System.Data.DataColumn("Familia", GetType(String), Nothing, Global.System.Data.MappingType.Element)
-            MyBase.Columns.Add(Me.columnFamilia)
         End Sub
 
         <Global.System.Diagnostics.DebuggerNonUserCodeAttribute(), _
@@ -3906,21 +3893,6 @@ Partial Public Class dts_Caja
 
         <Global.System.Diagnostics.DebuggerNonUserCodeAttribute(), _
          Global.System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")> _
-        Public Property Familia() As String
-            Get
-                Try
-                    Return CType(Me(Me.tableRptTicketFamilia.FamiliaColumn), String)
-                Catch e As Global.System.InvalidCastException
-                    Throw New Global.System.Data.StrongTypingException("The value for column 'Familia' in table 'RptTicketFamilia' is DBNull.", e)
-                End Try
-            End Get
-            Set(value As String)
-                Me(Me.tableRptTicketFamilia.FamiliaColumn) = value
-            End Set
-        End Property
-
-        <Global.System.Diagnostics.DebuggerNonUserCodeAttribute(), _
-         Global.System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")> _
         Public Function Isid_doc_cabNull() As Boolean
             Return Me.IsNull(Me.tableRptTicketFamilia.id_doc_cabColumn)
         End Function
@@ -3989,18 +3961,6 @@ Partial Public Class dts_Caja
          Global.System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")> _
         Public Sub SetimpresoraNull()
             Me(Me.tableRptTicketFamilia.impresoraColumn) = Global.System.Convert.DBNull
-        End Sub
-
-        <Global.System.Diagnostics.DebuggerNonUserCodeAttribute(), _
-         Global.System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")> _
-        Public Function IsFamiliaNull() As Boolean
-            Return Me.IsNull(Me.tableRptTicketFamilia.FamiliaColumn)
-        End Function
-
-        <Global.System.Diagnostics.DebuggerNonUserCodeAttribute(), _
-         Global.System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")> _
-        Public Sub SetFamiliaNull()
-            Me(Me.tableRptTicketFamilia.FamiliaColumn) = Global.System.Convert.DBNull
         End Sub
     End Class
 

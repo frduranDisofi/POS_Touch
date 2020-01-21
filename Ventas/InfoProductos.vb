@@ -26,8 +26,8 @@ Public Class InfoProductos
 
     Private Sub uic_Imprime_Click(sender As Object, e As EventArgs) Handles uic_Imprime.Click
         Dim frm As New Info_Productos
-        frm.FechaIni = Format(Me.uic_FechaIni.Value, "yyyy-MM-dd")
-        frm.FechaFin = Format(Me.uic_FechaFin.Value, "yyyy-MM-dd")
+        frm.FechaIni = Format(Me.uic_FechaIni.Value, "yyyy-dd-MM")
+        frm.FechaFin = Format(Me.uic_FechaFin.Value, "yyyy-dd-MM")
         frm.Usuario = Me.uic_Usuario.SelectedValue()
         frm.Familia = Me.uic_familia.SelectedValue
         frm.Producto = Me.uic_producto.SelectedValue

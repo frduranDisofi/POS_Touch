@@ -172,7 +172,7 @@ Public Class compras
         Dim dts As New proyectoDTO.Compras
         Dim func As New ProyectoNegocio.Productos
 
-        dts.Fecha_ = Format(DateTimePicker1.Value, "yyyy-MM-dd").ToString
+        dts.Fecha_ = Format(DateTimePicker1.Value, "yyyy-dd-MM").ToString
         dts.get_folio = Val(Me.txt_folio.Text)
         dts.get_neto = Val(Me.uic_neto.Text)
         dts.get_iva = Val(Me.uic_IVA.Text)

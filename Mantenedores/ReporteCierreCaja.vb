@@ -11,8 +11,8 @@ Public Class ReporteCierreCaja
     End Sub
     Private Sub mostrarcierre()
         Dim neg As New Venta
-        Dim fechaini As String = Format(Me.uic_FechaIni.Value, "yyyy-MM-dd")
-        Dim fechafin As String = Format(Me.uic_FechaFin.Value, "yyyy-MM-dd")
+        Dim fechaini As String = Format(Me.uic_FechaIni.Value, "yyyy-dd-MM")
+        Dim fechafin As String = Format(Me.uic_FechaFin.Value, "yyyy-dd-MM")
         Dim dt As New DataTable
         dt = neg.grillaCierre(fechaini, fechafin)
         If dt.Rows.Count > 0 Then
@@ -64,7 +64,7 @@ Public Class ReporteCierreCaja
             Me.idusuario = Me.GridVentas.Rows(linea).Cells(4).Value
             Me.idcaja = Me.GridVentas.Rows(linea).Cells(0).Value
             Dim _fecha As Date = Me.GridVentas.Rows(linea).Cells(2).Value
-            Me.fecha = Format(_fecha, "yyyy-MM-dd")
+            Me.fecha = Format(_fecha, "yyyy-dd-MM")
 
 
             Dim frm As New CierreCaja

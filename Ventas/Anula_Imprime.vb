@@ -32,8 +32,8 @@ Public Class Anula_Imprime
     End Sub
     Private Sub uic_BuscaVta_Click(sender As Object, e As EventArgs) Handles uic_BuscaVta.Click
         Dim neg As New Venta
-        Dim fechaini As String = Format(Me.uic_FechaIni.Value, "yyyy-MM-dd")
-        Dim fechafin As String = Format(Me.uic_FechaFin.Value, "yyyy-MM-dd")
+        Dim fechaini As String = Format(Me.uic_FechaIni.Value, "yyyy-dd-MM")
+        Dim fechafin As String = Format(Me.uic_FechaFin.Value, "yyyy-dd-MM")
         Dim dt As New DataTable
         dt = neg.BuscarVentas(fechaini, fechafin)
         If dt.Rows.Count > 0 Then
@@ -112,8 +112,8 @@ Public Class Anula_Imprime
         Me.uic_FechaIni.Value = Now
         Me.uic_FechaFin.Value = Now
         Dim neg As New Venta
-        Dim fechaini As String = Format(Me.uic_FechaIni.Value, "yyyy-MM-dd")
-        Dim fechafin As String = Format(Me.uic_FechaIni.Value, "yyyy-MM-dd")
+        Dim fechaini As String = Format(Me.uic_FechaIni.Value, "yyyy-dd-MM")
+        Dim fechafin As String = Format(Me.uic_FechaIni.Value, "yyyy-dd-MM")
         Dim dt As New DataTable
         dt = neg.BuscarVentas(fechaini, fechafin)
         If dt.Rows.Count > 0 Then
